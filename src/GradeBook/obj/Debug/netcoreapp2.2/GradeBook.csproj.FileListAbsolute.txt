@@ -1,0 +1,11 @@
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.deps.json
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.json
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.dev.json
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.dll
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.pdb
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csprojAssemblyReference.cache
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csproj.CoreCompileInputs.cache
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfoInputs.cache
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfo.cs
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.dll
+/Users/brian/Documents/git/Pluralsight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.pdb
